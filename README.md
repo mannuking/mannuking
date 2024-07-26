@@ -20,7 +20,7 @@
 
 <h3 align="left">🔧 Skills and Expertise:</h3>
 <p align="left">
-  I specialize in **Prompt Engineering** for Large Language Models (LLMs) and integrating various AI APIs. My expertise includes:
+  I specialize in Prompt Engineering for Large Language Models (LLMs) and integrating various AI APIs. My expertise includes:
   - Crafting precise prompts to optimize LLM performance
   - Developing and deploying chatbots using DialogFlow and other frameworks
   - Integrating AI tools into web applications using the MERN stack
