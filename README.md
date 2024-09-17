@@ -36,9 +36,9 @@
 </p>
 
 ## 📫 Reach Me:
-- Email: [jai@example.com](mailto:jk422331@gmail.com)
-- LinkedIn: [linkedin.com/in/jkmeena](www.linkedin.com/in/jai-kumar-meena-431b80213)
-- GitHub: [github.com/jkmeena](https://github.com/mannuking)
+- Email: mailto:jk422331@gmail.com
+- LinkedIn: www.linkedin.com/in/jai-kumar-meena-431b80213
+- GitHub: https://github.com/mannuking
 
 ## 🎯 Other Profiles:
 <p align="left">
@@ -46,3 +46,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannuking&show_icons=true&locale=en&layout=compact" alt="mannuking" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&locale=en" alt="mannuking" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&" alt="mannuking" /></p>
