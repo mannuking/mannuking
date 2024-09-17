@@ -36,7 +36,7 @@
 </p>
 
 ## 📫 Reach Me:
-- Email: mailto:jk422331@gmail.com
+- Email: jk422331@gmail.com
 - LinkedIn: www.linkedin.com/in/jai-kumar-meena-431b80213
 - GitHub: https://github.com/mannuking
 
