@@ -4,8 +4,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jkmeena&color=brightgreen)
 
-- 🔭 I’m currently working on [Project Planner](https://github.com/mannuking/Project-Planner)
-- 🌱 I’m currently learning **Generative AI, Meta's Llama 3.1, Streamlit**
+- 🔭 I’m currently working on [Navi Nest](https://github.com/mannuking/navinest)
+- 🌱 I’m currently learning **Vision Language, Realtime LLMs, Multi LLMs**
 - 💬 Ask me about **Prompt Engineering for LLMs, AI API Integration**
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/mannuking?tab=repositories)
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jai-kumar-meena-431b80213/)
