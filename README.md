@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jai Kumar Meena
 
-### Fourth-year B.Tech Computer Science Engineering Student at DTU, Delhi
+### Fourth-year B.Tech Computer Science Engineering Student at DTU, Delhi, India
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jkmeena&color=brightgreen)
 
