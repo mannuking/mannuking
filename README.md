@@ -44,31 +44,21 @@
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/nolan/64/map.png" width="40" alt="Geospatial" />
-        <br />
-        <b>Project Radius</b>
-        <br />
-        Geospatial analytics platform with interactive maps and real-time data charts
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/nolan/64/leaf.png" width="40" alt="Leaf AI" />
-        <br />
-        <b>LeafAid</b>
-        <br />
-        AI-driven plant disease detection powered by custom TensorFlow models
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/nolan/64/code.png" width="40" alt="OSS" />
-        <br />
-        <b>Open Source</b>
-        <br />
-        <a href="https://github.com/mannuking?tab=repositories">Explore my repositories</a>
-      </td>
-    </tr>
-  </table>
+  <div style="background: linear-gradient(90deg, rgba(5,7,12,0.5) 0%, rgba(5,41,71,0.5) 100%); border-radius: 10px; padding: 20px; border: 1px solid #2f71a1; max-width: 550px; margin: 0 auto;">
+    <table style="border-collapse: separate; border-spacing: 15px; background: none; margin: 0 auto;">
+      <tr>
+        <td align="center" style="background: rgba(13,17,23,0.8); border-radius: 8px; padding: 15px; border: 1px solid #2d5c88;">
+          <img src="https://img.icons8.com/nolan/64/code.png" width="48" alt="OSS" />
+          <br />
+          <b style="color: #58a6ff; font-size: 16px;">Open Source</b>
+          <br />
+          <span style="color: #8b949e;">Contributing to developer tooling and AI frameworks</span>
+          <br />
+          <a href="https://github.com/mannuking?tab=repositories" style="color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;">Explore repositories</a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 <br />
