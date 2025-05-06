@@ -40,7 +40,9 @@
 - LinkedIn: www.linkedin.com/in/jai-kumar-meena-431b80213
 - GitHub: https://github.com/mannuking
 
+
 ## 🎯 Other Profiles:
+
 <p align="left">
   <a href="https://leetcode.com/u/mannuking1019/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
@@ -48,20 +50,16 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannuking&show_icons=true&locale=en&layout=compact" alt="mannuking" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&locale=en" alt="mannuking" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&" alt="mannuking" /></p>
-
 # 📊 GitHub Stats:
 
 <p><img align="center"
 src="https://github-readme-stats.vercel.app/api?username=mannuking&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true"<p/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=mannuking&theme=ambient_gradient&hide_border=true)<br/>
+<p><img align="center"
+src="https://nirzak-streak-stats.vercel.app/?user=mannuking&theme=ambient_gradient&hide_border=true"<p/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<p><img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact"<p/>
 
 ### 🔝 Top Contributed Repo
 
