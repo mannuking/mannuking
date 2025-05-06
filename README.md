@@ -31,87 +31,53 @@
 
 <h2 align="center">🎓 Fourth-year B.Tech Computer Science Engineering @ DTU, Delhi, India</h2>
 
-<!-- Companies & Collaborations Section -->
-<h2 align="center">
+---
+
+## 🤝 Companies & Collaborations
+
+<p align="center">
   <img src="https://img.icons8.com/nolan/64/handshake.png" width="32" alt="Collaborations" />
-  Companies & Collaborations
-</h2>
+</p>
 
-<div align="center" style="background: linear-gradient(90deg, rgba(13,17,23,0.8) 0%, rgba(13,17,23,0.6) 100%); border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto; border: 1px solid #2d5c88;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; align-items: center;">
-    <!-- Deloitte -->
-    <div style="background: rgba(5,7,12,0.7); padding: 15px 25px; border-radius: 8px; border: 1px solid #86B7FE; min-width: 120px; text-align: center;">
-      <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana; font-weight: 700; font-size: 18px; background: linear-gradient(90deg, #86B7FE, #A5F1FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">DELOITTE</span>
-    </div>
-    
-    <!-- Google -->
-    <div style="background: rgba(5,7,12,0.7); padding: 15px 25px; border-radius: 8px; border: 1px solid #4285F4; min-width: 120px; text-align: center;">
-      <span style="font-family: 'Product Sans', Arial, sans-serif; font-weight: 700; font-size: 18px; background: linear-gradient(90deg, #4285F4, #34A853, #FBBC05, #EA4335); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">GOOGLE</span>
-    </div>
-    
-    <!-- IrisIdea -->
-    <div style="background: rgba(5,7,12,0.7); padding: 15px 25px; border-radius: 8px; border: 1px solid #FF6B6B; min-width: 120px; text-align: center;">
-      <span style="font-family: 'Montserrat', sans-serif; font-weight: 700; font-size: 18px; background: linear-gradient(90deg, #FF6B6B, #FF9E7A); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">IRISIDEA</span>
-    </div>
-    
-    <!-- LvL 360 -->
-    <div style="background: rgba(5,7,12,0.7); padding: 15px 25px; border-radius: 8px; border: 1px solid #7E57C2; min-width: 120px; text-align: center;">
-      <span style="font-family: 'Quicksand', sans-serif; font-weight: 700; font-size: 18px; background: linear-gradient(90deg, #7E57C2, #B39DDB); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">LVL 360</span>
-    </div>
-    
-    <!-- Magnest -->
-    <div style="background: rgba(5,7,12,0.7); padding: 15px 25px; border-radius: 8px; border: 1px solid #00BFA6; min-width: 120px; text-align: center;">
-      <span style="font-family: 'Poppins', sans-serif; font-weight: 700; font-size: 18px; background: linear-gradient(90deg, #00BFA6, #5CE1E6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">MAGNEST</span>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/DELOITTE-0866C3?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
+  <img src="https://img.shields.io/badge/GOOGLE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  <img src="https://img.shields.io/badge/IRISIDEA-FF6B6B?style=for-the-badge" alt="IrisIdea" />
+  <img src="https://img.shields.io/badge/LVL%20360-7E57C2?style=for-the-badge" alt="Lvl 360" />
+  <img src="https://img.shields.io/badge/MAGNEST-00BFA6?style=for-the-badge" alt="Magnest" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line.gif" width="100%" height="4" alt="Digital Line" />
-</div>
+---
 
-<br />
+## 🐦 Current Projects
 
-<!-- Two-column layout for Current Projects and Currently Learning -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
-  <!-- Current Projects Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h2 align="center">
-      <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" alt="Radar" />
-      Current Projects
-    </h2>
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" alt="Radar" />
+</p>
 
-    <div align="center">
-      <div style="background: linear-gradient(90deg, rgba(5,7,12,0.5) 0%, rgba(5,41,71,0.5) 100%); border-radius: 10px; padding: 20px; border: 1px solid #2f71a1; margin: 0 auto;">
-        <table style="border-collapse: separate; border-spacing: 15px; background: none; margin: 0 auto;">
-          <tr>
-            <td align="center" style="background: rgba(13,17,23,0.8); border-radius: 8px; padding: 15px; border: 1px solid #2d5c88;">
-              <img src="https://img.icons8.com/nolan/64/code.png" width="48" alt="OSS" />
-              <br />
-              <b style="color: #58a6ff; font-size: 16px;">Open Source</b>
-              <br />
-              <span style="color: #8b949e;">Contributing to developer tooling and AI frameworks</span>
-              <br />
-              <a href="https://github.com/mannuking?tab=repositories" style="color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;">Explore repositories</a>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </div>
-  </div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/nolan/64/code.png" width="48" alt="OSS" /><br>
+      <b>Open Source</b><br>
+      <span>Contributing to developer tooling and AI frameworks</span><br>
+      <a href="https://github.com/mannuking?tab=repositories" style="color: #58a6ff;">Explore repositories</a>
+    </td>
+  </tr>
+</table>
 
-  <!-- Currently Learning Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h2 align="center">
-      <img src="https://img.icons8.com/nolan/64/brain.png" width="32" alt="Learning" />
-      Currently Learning
-    </h2>
+---
 
-    <div align="center" style="background: linear-gradient(90deg, rgba(5,7,12,0.5) 0%, rgba(5,41,71,0.5) 100%); border-radius: 10px; padding: 20px; border: 1px solid #2f71a1; margin: 0 auto;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=400&lines=MCP+Servers;Agentic+AI;Custom+Model+Deployment" alt="Learning Topics" />
-    </div>
-  </div>
-</div>
+## 🧠 Currently Learning
+
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/brain.png" width="32" alt="Learning" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=400&lines=MCP+Servers;Agentic+AI;Custom+Model+Deployment" alt="Learning Topics" />
+</p>
+
+---
 
 <!-- Two-column layout for Ask Me About and Tech Arsenal Intro -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
