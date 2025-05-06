@@ -79,36 +79,31 @@
 
 ---
 
-<!-- Two-column layout for Ask Me About and Tech Arsenal Intro -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
-  <!-- Ask Me About Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h2 align="center">
-      <img src="https://img.icons8.com/nolan/64/chat.png" width="32" alt="Ask" />
-      Ask Me About
-    </h2>
+## 🗨️ Ask Me About
 
-    <div align="center" style="background: linear-gradient(90deg, rgba(5,7,12,0.5) 0%, rgba(5,41,71,0.5) 100%); border-radius: 10px; padding: 20px; border: 1px solid #2f71a1; margin: 0 auto;">
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <code style="background: rgba(13,17,23,0.8); padding: 8px 16px; border-radius: 6px; border: 1px solid #2d5c88; color: #e6edf3;">Prompt Engineering for LLMs</code>
-        <code style="background: rgba(13,17,23,0.8); padding: 8px 16px; border-radius: 6px; border: 1px solid #2d5c88; color: #e6edf3;">AI API Integration</code>
-        <code style="background: rgba(13,17,23,0.8); padding: 8px 16px; border-radius: 6px; border: 1px solid #2d5c88; color: #e6edf3;">Chatbot Development</code>
-      </div>
-    </div>
-  </div>
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/chat.png" width="32" alt="Ask" />
+</p>
 
-  <!-- Tech Arsenal Intro -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h2 align="center">
-      <img src="https://img.icons8.com/nolan/64/wrench.png" width="32" alt="Skills" />
-      Tech Arsenal
-    </h2>
+<p align="center">
+  <code>Prompt Engineering for LLMs</code>
+  <code>AI API Integration</code>
+  <code>Chatbot Development</code>
+</p>
 
-    <div align="center" style="background: linear-gradient(90deg, rgba(5,7,12,0.5) 0%, rgba(5,41,71,0.5) 100%); border-radius: 10px; padding: 20px; border: 1px solid #2f71a1; margin: 0 auto; color: #e6edf3;">
-      <p>Explore my tech stack below — a cyberpunk collection of languages, frameworks, and tools I've mastered in my journey.</p>
-    </div>
-  </div>
-</div>
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://img.icons8.com/nolan/64/wrench.png" width="32" alt="Skills" />
+</p>
+
+<p align="center">
+  Explore my tech stack below — a cyberpunk collection of languages, frameworks, and tools I've mastered in my journey.
+</p>
+
+---
 
 <!-- Two-column layout for Programming Languages and Web Development -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
