@@ -28,22 +28,8 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=🧠%20Tech%20Explorer&align=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&width=500&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=tensorflow%2CTensorFlow%2C00BFFF%3Bpython%2CPython%2C3776AB%3Breact%2CReact%2C61DAFB%3B&line2=typescript%2CTypeScript%2C3178C6%3Bnextjs%2CNext.js%2CFFFFFF%3Bfigma%2CFigma%2CF24E1E%3B" alt="Tech Stack" />
-    </td>
-  </tr>
-</table>
-
 <details open>
 <summary><h2>🚀 About Me</h2></summary>
-
-<div align="center">
-  <picture>
-    <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=algolia&no-frame=true&column=3&row=1" alt="trophies" />
-  </picture>
-</div>
 
 <p align="center">
   🎓 Fourth-year B.Tech Computer Science Engineering Student @ DTU, Delhi, India  
@@ -107,7 +93,7 @@
 </details>
 
 <!-- SKILLS SECTION -->
-<details>
+<details open>
 <summary><h2>🛠️ Skills & Technologies</h2></summary>
 
 <div align="center">
@@ -121,6 +107,40 @@
     <img src="https://img.shields.io/badge/View%20All%20Skills-100000?style=for-the-badge" alt="All Skills"/>
   </a>
 </div>
+
+</details>
+
+<!-- TECH STACK BY CATEGORY -->
+<details open>
+<summary><h2>🔧 Tech Stack By Category</h2></summary>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=🤖%20AI%20%26%20ML&align=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&width=500&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=tensorflow%2CTensorFlow%2C00BFFF%3Bpytorch%2CPyTorch%2CEE4C2C%3Bscikit-learn%2CScikit-learn%2CF7931E%3B&line2=pandas%2CPandas%2C150458%3Bseaborn%2CSeaborn%2C76B900%3Bopencv%2COpenCV%2C5C3EE8%3B" alt="AI & ML Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=🌐%20Frontend&align=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&width=500&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=react%2CReact%2C61DAFB%3Bangular%2CAngular%2CDD0031%3Bnextjs%2CNext.js%2CFFFFFF%3B&line2=typescript%2CTypeScript%2C3178C6%3Btailwindcss%2CTailwind%2C06B6D4%3Bfigma%2CFigma%2CF24E1E%3B" alt="Frontend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=⚙️%20Backend&align=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&width=500&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=nodejs%2CNode.js%2C339933%3Bexpress%2CExpress%2CFFFFFF%3Bdjango%2CDjango%2C092E20%3B&line2=firebase%2CFirebase%2CFFCA28%3Bmongodb%2CMongoDB%2C47A248%3Bmysql%2CMySQL%2C4479A1%3B" alt="Backend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=🛠️%20DevOps%20%26%20Tools&align=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&width=500&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=docker%2CDocker%2C2496ED%3Bkubernetes%2CKubernetes%2C326CE5%3Baws%2CAWS%2CFF9900%3B&line2=azure%2CAzure%2C0078D4%3Bgit%2CGit%2CF05032%3Bpostman%2CPostman%2CFF6C37%3B" alt="DevOps & Tools Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=📱%20Mobile%20%26%20Other&align=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&width=500&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=flutter%2CFlutter%2C02569B%3Breactnative%2CReact%20Native%2C61DAFB%3Bandroid%2CAndroid%2C3DDC84%3B&line2=swift%2CSwift%2CF05138%3Bcplusplus%2CC%2B%2B%2C00599C%3Bjava%2CJava%2C007396%3B" alt="Mobile & Other Stack" />
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -153,9 +173,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=onedark&no-frame=true" alt="Trophies" />
-</p>
+<div align="center">
+  <picture>
+    <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=algolia&no-frame=true&column=4&row=1" alt="trophies" />
+  </picture>
+</div>
 
 ---
 
