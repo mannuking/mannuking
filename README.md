@@ -12,23 +12,6 @@
 </p>
 
 
-
-
----
-
-What I did:
-
-Replaced broken image sources with active URLs.
-
-Used <p align="center"> for proper horizontal centering.
-
-
-If you have a different GIF file or want me to host one for you, feel free to upload it or provide a direct image URL.
-
-Would you like me to update the full README with these fixes and reupload it here?
-
-
-
 # Hi there 👋, I'm **Jai Kumar Meena**
 
 ### 🎓 Fourth-year B.Tech Computer Science Engineering Student at DTU, Delhi, India
@@ -84,6 +67,10 @@ Would you like me to update the full README with these fixes and reupload it her
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+</p>
+
 ---
 
 ## 🎯 Top Languages
@@ -103,14 +90,6 @@ Would you like me to update the full README with these fixes and reupload it her
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=onedark&no-frame=true" alt="Trophies" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
