@@ -14,15 +14,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Science+Student+%40+DTU+Delhi;Open+Source+Enthusiast;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
+---
 
 <p align="center">
   🎓 Fourth-year B.Tech Computer Science Engineering Student @ DTU, Delhi, India
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/
+<img
+src="https://komarev.com/ghpvc/
 ?username=jkmeena&color=brightgreen" alt="
-Profile views" />
+Profile views"/>
 </p>
 
 ---
