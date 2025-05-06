@@ -54,7 +54,7 @@
 
 <p><img align="center"src="https://github-readme-stats.vercel.app/api?username=mannuking&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true"<p/>
 
-<p align="center">src="https://nirzak-streak-stats.vercel.app/?user=mannuking&theme=ambient_gradient&hide_border=true"<p/>
+<p> <align="center">src="https://nirzak-streak-stats.vercel.app/?user=mannuking&theme=ambient_gradient&hide_border=true"<p/>
 
 <p align="center">src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact"<p/>
 
