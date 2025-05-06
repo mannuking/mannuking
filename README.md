@@ -11,21 +11,7 @@
   <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello!" width="500"/>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-<h2 align="center">💸 Support Me:</h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/mannuking" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
-  </a>
-</p>
 
 
 ---
@@ -119,17 +105,20 @@ Would you like me to update the full README with these fixes and reupload it her
   <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=onedark&no-frame=true" alt="Trophies" />
 </p>
 
-<!-- Optional: Animated Lottie Badge -->
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <a href="https://github.com/mannuking"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mannuking&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
-## 💸 Support Me:
-<p>
-  <a href="https://buymeacoffee.com/jaikumarmeena">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+<h2 align="center">💸 Support Me:</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mannuking" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
   </a>
 </p>
-
