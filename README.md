@@ -5,6 +5,44 @@
   <img src="https://github.com/ricardo-vazquez/github-profile-readme-animation/blob/main/demo/hello.gif?raw=true" alt="Hello GIF" width="300"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello!" width="500"/>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+<h2 align="center">💸 Support Me:</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mannuking" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+  </a>
+</p>
+
+
+---
+
+What I did:
+
+Replaced broken image sources with active URLs.
+
+Used <p align="center"> for proper horizontal centering.
+
+
+If you have a different GIF file or want me to host one for you, feel free to upload it or provide a direct image URL.
+
+Would you like me to update the full README with these fixes and reupload it here?
+
+
+
 # Hi there 👋, I'm **Jai Kumar Meena**
 
 ### 🎓 Fourth-year B.Tech Computer Science Engineering Student at DTU, Delhi, India
