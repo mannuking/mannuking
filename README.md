@@ -2,18 +2,18 @@
 
 <div align="center">
   
-  <!-- Cyberpunk/Tech-themed header image -->
+  <!-- Cyberpunk/Tech-themed header -->
   <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello GIF" width="320" />
   
   <h1>
-    <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/terminal.gif" width="30" alt="Terminal" /> 
+    <span style="color:#00FFAA">『</span>
     JAI KUMAR MEENA
-    <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/terminal.gif" width="30" alt="Terminal" />
+    <span style="color:#00FFAA">』</span>
   </h1>
 
-  <div>
+  <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Computer+Science+Student+%40+DTU+Delhi;Open+Source+Enthusiast;Tech+Explorer+%7C+AI+Developer" alt="Typing SVG" />
-  </div>
+  </p>
 
   <!-- Digital frame for profile info -->
   <div>
@@ -26,20 +26,20 @@
 
 <!-- Main Content with cyberpunk-inspired dividers -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/digital-line.gif" width="100%" height="4" alt="Digital Line" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line.gif" width="100%" height="4" alt="Digital Line" />
 </div>
 
 <h2 align="center">🎓 Fourth-year B.Tech Computer Science Engineering @ DTU, Delhi, India</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/digital-line.gif" width="100%" height="4" alt="Digital Line" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line.gif" width="100%" height="4" alt="Digital Line" />
 </div>
 
 <br />
 
 <!-- What I'm Working On Section with improved styling -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/radar.gif" width="32" alt="Radar" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" alt="Radar" />
   Current Projects
 </h2>
 
@@ -47,21 +47,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/map-icon.gif" width="40" alt="Geospatial" />
+        <img src="https://img.icons8.com/nolan/64/map.png" width="40" alt="Geospatial" />
         <br />
         <b>Project Radius</b>
         <br />
         Geospatial analytics platform with interactive maps and real-time data charts
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/leaf-ai.gif" width="40" alt="Leaf AI" />
+        <img src="https://img.icons8.com/nolan/64/leaf.png" width="40" alt="Leaf AI" />
         <br />
         <b>LeafAid</b>
         <br />
         AI-driven plant disease detection powered by custom TensorFlow models
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/code-icon.gif" width="40" alt="OSS" />
+        <img src="https://img.icons8.com/nolan/64/code.png" width="40" alt="OSS" />
         <br />
         <b>Open Source</b>
         <br />
@@ -75,7 +75,7 @@
 
 <!-- Currently Learning Section with improved styling -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/brain.gif" width="32" alt="Learning" />
+  <img src="https://img.icons8.com/nolan/64/brain.png" width="32" alt="Learning" />
   Currently Learning
 </h2>
 
@@ -87,7 +87,7 @@
 
 <!-- Ask Me About Section -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/chat.gif" width="32" alt="Ask" />
+  <img src="https://img.icons8.com/nolan/64/chat.png" width="32" alt="Ask" />
   Ask Me About
 </h2>
 
@@ -101,7 +101,7 @@
 
 <!-- Skills section reorganized into categories with better visual design -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/tools.gif" width="32" alt="Skills" />
+  <img src="https://img.icons8.com/nolan/64/wrench.png" width="32" alt="Skills" />
   Tech Arsenal
 </h2>
 
@@ -206,7 +206,7 @@
 
 <!-- Connect With Me section with cyberpunk styling -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/network.gif" width="32" alt="Connect" />
+  <img src="https://img.icons8.com/nolan/64/link.png" width="32" alt="Connect" />
   Connect With Me
 </h2>
 
