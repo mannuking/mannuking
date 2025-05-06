@@ -20,12 +20,9 @@
   🎓 Fourth-year B.Tech Computer Science Engineering Student @ DTU, Delhi, India
 </p>
 
-<p align="center">
-<img
-src="https://komarev.com/ghpvc/
-?username=jkmeena&color=brightgreen" alt="
-Profile views"/>
-</p>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=jkmeena&color=brightgreen" alt="Profile views" />  
+</p>  
 
 ---
 
