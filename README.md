@@ -1,47 +1,50 @@
 <!-- README.md -->
 
-<!-- Animated Header GIF -->
+<!-- ===== Animated Intro Section ===== -->
 <p align="center">
-  <img src="https://github.com/ricardo-vazquez/github-profile-readme-animation/blob/main/demo/hello.gif?raw=true" alt="Hello GIF" width="300"/>
+  <!-- Primary Hello GIF (host your own in /assets) -->
+  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello GIF" width="300" />
+</p>
+
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" alt="Waving Hand" />, I'm **Jai Kumar Meena**
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Science+Student+%40+DTU+Delhi;Open+Source+Enthusiast;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🎓 Fourth-year B.Tech Computer Science Engineering Student @ DTU, Delhi, India
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mannuking&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
+## 🔭 What I'm Working On
+
+- **Project Radius**: A geospatial analytics platform with interactive maps and real-time data charts.
+- **LeafAid**: AI-driven plant disease detection powered by custom TensorFlow models.
+- Personal Open-Source Projects: Explore my [repos](https://github.com/mannuking?tab=repositories).
+
+---
+
+## 🌱 Currently Learning
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello!" width="500"/>
-</p>
-
-
-# Hi there 👋, I'm **Jai Kumar Meena**
-
-### 🎓 Fourth-year B.Tech Computer Science Engineering Student at DTU, Delhi, India
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jkmeena&color=brightgreen" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=MCP+Servers;Agentic+AI;Custom+Model+Deployment" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello!" width="300"/>
-</p>
+## 💬 Ask Me About
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Jai Kumar Meena</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Science+Student+%40+DTU+Delhi;Passionate+Developer+%7C+Open+Source+Enthusiast;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  🎓 Fourth-year B.Tech Computer Science Engineering Student at DTU, Delhi, India
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mannuking&label=Profile%20views&color=0e75b6&style=flat" alt="mannuking" />
-</p>
+> **Prompt Engineering for LLMs**, AI API Integration, Chatbot Development.
 
 ---
-
 ## 🔭 What I'm Working On
 
 - **Project Radius**: A geospatial analytics platform with interactive maps and real-time data charts.
