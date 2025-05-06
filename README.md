@@ -22,6 +22,26 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello!" width="300"/>
+</p>
+
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Jai Kumar Meena</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Science+Student+%40+DTU+Delhi;Passionate+Developer+%7C+Open+Source+Enthusiast;Lifelong+Learner+%7C+Tech+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  🎓 Fourth-year B.Tech Computer Science Engineering Student at DTU, Delhi, India
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mannuking&label=Profile%20views&color=0e75b6&style=flat" alt="mannuking" />
+</p>
+
+---
+
 ## 🔭 What I'm Working On
 
 - **Project Radius**: A geospatial analytics platform with interactive maps and real-time data charts.
