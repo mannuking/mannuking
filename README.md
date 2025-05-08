@@ -18,9 +18,13 @@
   <!-- Digital frame for profile info -->
   <div>
     <a href="https://github.com/mannuking"><img src="https://img.shields.io/github/followers/mannuking?style=for-the-badge&logo=github&color=0A0C10&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub Followers"></a>
-    <img src="https://komarev.com/ghpvc/?username=mannuking&color=0D1117&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  
   </div>
 </div>
+
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=jkmeena&color=brightgreen" alt="Profile views" />  
+</p>
 
 <br />
 
