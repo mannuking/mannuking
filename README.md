@@ -12,8 +12,11 @@
 </h1>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Computer+Science+Student+%40+DTU+Delhi;Open+Source+Enthusiast;Tech+Explorer+%7C+AI+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Computer+Science+Student+%40+DTU+Delhi;
+      Open+Source+Enthusiast;
+      Tech+Explorer+%7C+AI+Developer" alt="Typing SVG" />
   </p>
+
 
   <!-- Digital frame for profile info -->
   <div>
