@@ -346,7 +346,7 @@
     <h2 align="center">📫 How to Reach Me</h2>
     <div align="center" style="background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88; margin: 0 auto;">
       <p>Email: <a href="mailto:jk422331@gmail.com" style="color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;">jk422331@gmail.com</a></p>
-      <p>Resume/CV: <a href="https://drive.google.com/file/d/1FAjp_zkjoE6swMn1P3u8bkbLF8FY3koy/view?usp=sharing" style="color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;">Download PDF</a></p>
+      <p>Resume/CV: <a href="https://drive.google.com/file/d/19CO3Lmg5p5wNdlmYXkKuMuL_aFu2KMms/view?usp=sharing" style="color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;">Download PDF</a></p>
     </div>
   </div>
 
