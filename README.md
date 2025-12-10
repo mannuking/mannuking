@@ -312,9 +312,9 @@ hobbies:
   <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
-<!-- Streak Stats - Using streak-stats.demolab.com -->
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mannuking&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- Contribution Graph -->
