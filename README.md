@@ -297,19 +297,31 @@ hobbies:
 </h2>
 
 <!-- GitHub Stats Card - With Private Commits -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
+  </picture>
+</div>
+
+<br/>
 
 <!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+  </picture>
+</div>
+
+<br/>
 
 <!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
 
 <!-- Contribution Graph -->
 <p align="center">
