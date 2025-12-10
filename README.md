@@ -296,39 +296,42 @@ hobbies:
   GitHub Statistics
 </h2>
 
-<!-- GitHub Stats using shields.io + GitHub API -->
+<!-- GitHub Stats using shields.io dynamic badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Total%20Stars-8-yellow?style=for-the-badge&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/badge/Total%20Commits%202025-1.03k+-blue?style=for-the-badge&logo=github" alt="Commits"/>
-  <img src="https://img.shields.io/badge/Total%20PRs-4-purple?style=for-the-badge&logo=github" alt="PRs"/>
-  <img src="https://img.shields.io/badge/Contributed%20To-48-green?style=for-the-badge&logo=github" alt="Contributed"/>
+  <img src="https://img.shields.io/github/stars/mannuking?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"/>
+  <img src="https://img.shields.io/github/followers/mannuking?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Total%20Commits%202025-1.03k+-purple?style=for-the-badge&logo=github" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-41-green?style=for-the-badge&logo=github" alt="Repos"/>
 </div>
 
 <br/>
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats Card - Using Render deployment -->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.onrender.com/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <br/>
 
-<!-- Top Languages -->
+<!-- Top Languages - Using Render deployment -->
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.onrender.com/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
 
-<!-- Streak Stats -->
+<!-- Streak Stats - Using herokuapp -->
 <div align="center">
-  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph - Using Render (not Vercel) -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true&area_color=00FFAA" alt="Activity Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.onrender.com/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true&area_color=00FFAA" alt="Activity Graph"/>
 </p>
+
+<!-- Note: To show private contributions in the graph, you need to set up GitHub Actions in your profile repo -->
+<!-- The contribution graph above only shows public activity due to GitHub API limitations -->
 
 <!-- Profile Summary Cards -->
 <p align="center">
