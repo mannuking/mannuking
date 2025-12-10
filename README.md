@@ -350,14 +350,13 @@ hobbies:
   <img src="https://github-trophies.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
-<!-- Contribution Snake Animation - Generated from YOUR account with private contributions -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mannuking/mannuking/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mannuking/mannuking/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mannuking/mannuking/output/github-snake-dark.svg">
-  </picture>
-</p>
+<!-- Contribution Snake Animation -->
+<!-- This will work after you run the GitHub Action workflow -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mannuking/mannuking/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mannuking/mannuking/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mannuking/mannuking/output/github-snake-dark.svg" />
+</picture>
 
 <!-- Animated Line Divider -->
 <p align="center">
