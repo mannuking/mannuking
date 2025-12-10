@@ -1,40 +1,93 @@
 <!-- README.md -->
 
 <div align="center">
-  
-  <!-- Cyberpunk/Tech-themed header -->
-  <img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello GIF" width="320" />
-  
-  <h1>
-    <span style="color:#00FFAA">『</span>
-    JAI KUMAR MEENA
-    <span style="color:#00FFAA">』</span>
-</h1>
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JAI%20KUMAR%20MEENA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Open%20Source%20Enthusiast&descAlignY=52&descSize=18"/>
 
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Open+Source+Enthusiast;Tech+Explorer+%7C+AI+Developer" alt="Typing SVG" /> 
-    
-  </p>
+<!-- Animated Hello GIF -->
+<img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello GIF" width="320" />
 
+<!-- Animated Typing SVG -->
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+the+Future+with+AI;%F0%9F%A4%96+Open+Source+Enthusiast;%F0%9F%92%A1+Tech+Explorer+%7C+AI+Developer;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Profile Views Counter - KEEPING EXACTLY AS IS -->
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=jkmeena&color=brightgreen" alt="Profile views" />  
 </p>
-<br />
 
-<!-- Main Content with cyberpunk-inspired dividers -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/assets/line.gif" width="100%" height="4" alt="Digital Line" />
-</div>
-<h2 align="center"> AI Engineer at IrisIdea TechSolutions and Data Scientist at LVL 360
-
----
-
-## 🤝 Companies & Collaborations
-
+<!-- Social Badges with Animation -->
 <p align="center">
-  <img src="https://img.icons8.com/nolan/64/handshake.png" width="32" alt="Collaborations" />
+  <a href="https://linkedin.com/in/jai-kumar-meena-431b80213">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mannuking">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/NSUTKING">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:jk422331@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<!-- About Me Section -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <span> About Me</span>
+</h2>
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+
+```yaml
+name: Jai Kumar Meena
+located_in: India
+current_role: AI Engineer @ IrisIdea TechSolutions
+                Data Scientist @ LVL 360
+
+education:
+  - "Computer Science & Engineering"
+
+fields_of_interests:
+  - "Artificial Intelligence"
+  - "Machine Learning"
+  - "Large Language Models"
+  - "Agentic AI Systems"
+  - "Full Stack Development"
+
+currently_learning:
+  - "MCP Servers"
+  - "Agentic AI"
+  - "Custom Model Deployment"
+
+hobbies:
+  - "Open Source Contributing"
+  - "Building AI Tools"
+  - "Tech Exploration"
+```
+
+<br clear="both">
+
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- Companies & Collaborations -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/fauxpas9IbkiU/giphy.gif" width="32">
+  Companies & Collaborations
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DELOITTE-0866C3?style=for-the-badge&logo=deloitte&logoColor=white" alt="Deloitte" />
@@ -44,328 +97,278 @@
   <img src="https://img.shields.io/badge/MAGNEST-00BFA6?style=for-the-badge" alt="Magnest" />
 </p>
 
----
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
 
-## 🐦 Current Projects
+<!-- Current Projects -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32">
+  Current Projects
+</h2>
 
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" alt="Radar" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="32" alt="GitHub Parrot" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/nolan/64/code.png" width="48" alt="OSS" /><br>
-      <b>Open Source</b><br>
-      <span>Contributing to developer tooling and AI frameworks</span><br>
-      <a href="https://github.com/mannuking?tab=repositories" style="color: #58a6ff;">Explore repositories</a>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80" alt="Coding"/>
+      <br><br>
+      <b>🔥 Open Source Contributions</b>
+      <br><br>
+      <span>Contributing to developer tooling and AI frameworks</span>
+      <br><br>
+      <a href="https://github.com/mannuking?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore_Repos-00FFAA?style=for-the-badge&logo=github&logoColor=black" alt="Explore"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" alt="AI"/>
+      <br><br>
+      <b>🤖 AI/ML Projects</b>
+      <br><br>
+      <span>Building intelligent systems and automation tools</span>
+      <br><br>
+      <a href="https://github.com/mannuking?tab=repositories&q=ai">
+        <img src="https://img.shields.io/badge/View_AI_Projects-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Projects"/>
+      </a>
     </td>
   </tr>
 </table>
 
----
-
-## 🧠 Currently Learning
-
+<!-- Animated Line Divider -->
 <p align="center">
-  <img src="https://img.icons8.com/nolan/64/brain.png" width="32" alt="Learning" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=400&lines=MCP+Servers;Agentic+AI;Custom+Model+Deployment" alt="Learning Topics" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
----
-
-## 🗨️ Ask Me About
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/chat.png" width="32" alt="Ask" />
-</p>
-
-<p align="center">
-  <code>Prompt Engineering for LLMs</code>
-  <code>AI API Integration</code>
-  <code>Chatbot Development</code>
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://img.icons8.com/nolan/64/wrench.png" width="32" alt="Skills" />
-</p>
-
-<p align="center">
-  Explore my tech stack below — a cyberpunk collection of languages, frameworks, and tools I've mastered in my journey.
-</p>
-
----
-
-<!-- Two-column layout for Programming Languages and Web Development -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
-  <!-- Programming Languages Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h3 align="center">📋 Programming Languages</h3>
-    <div align="center" style="margin: 20px 0; background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88;">
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-      </a>
-    </div>
-  </div>
-
-  <!-- Web Development Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h3 align="center">🌐 Web Development</h3>
-    <div align="center" style="margin: 20px 0; background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88;">
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-      </a>
-    </div>
-  </div>
-</div>
-
-<!-- Two-column layout for Mobile Development and Database & Cloud -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
-  <!-- Mobile Development Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h3 align="center">📱 Mobile Development</h3>
-    <div align="center" style="margin: 20px 0; background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88;">
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-      </a>
-    </div>
-  </div>
-
-  <!-- Database & Cloud Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h3 align="center">☁️ Database & Cloud</h3>
-    <div align="center" style="margin: 20px 0; background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88;">
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-      </a>
-    </div>
-  </div>
-</div>
-
-<!-- Two-column layout for Machine Learning & AI and DevOps & Tools -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
-  <!-- Machine Learning & AI Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h3 align="center">🧠 Machine Learning & AI</h3>
-    <div align="center" style="margin: 20px 0; background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88;">
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-      </a>
-    </div>
-  </div>
-
-  <!-- DevOps & Tools Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h3 align="center">🛠️ DevOps & Tools</h3>
-    <div align="center" style="margin: 20px 0; background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88;">
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-      </a>
-      <a href="#" style="text-decoration:none">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-      </a>
-    </div>
-  </div>
-</div>
-
-<br />
-
-<!-- Connect With Me section with cyberpunk styling -->
+<!-- Currently Learning -->
 <h2 align="center">
-  <img src="https://img.icons8.com/nolan/64/link.png" width="32" alt="Connect" />
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="32">
+  Currently Learning
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=MCP+Servers+%F0%9F%96%A5%EF%B8%8F;Agentic+AI+%F0%9F%A4%96;Custom+Model+Deployment+%F0%9F%9A%80;LangChain+%26+LangGraph+%F0%9F%94%97;RAG+Systems+%F0%9F%93%9A" alt="Learning Topics" />
+</p>
+
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- Ask Me About -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="32">
+  Ask Me About
+</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/AI_API_Integration-00FFAA?style=for-the-badge&logo=fastapi&logoColor=black" alt="AI API"/>
+  <img src="https://img.shields.io/badge/Chatbot_Development-7E57C2?style=for-the-badge&logo=dialogflow&logoColor=white" alt="Chatbot"/>
+  <img src="https://img.shields.io/badge/LLM_Fine_Tuning-FF9800?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/Full_Stack_Dev-2196F3?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack"/>
+</p>
+
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
+  Tech Arsenal
+</h2>
+
+<p align="center">
+  <em>A cyberpunk collection of languages, frameworks, and tools I've mastered in my journey</em>
+</p>
+
+<!-- Programming Languages -->
+<details open>
+<summary><b>📋 Programming Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,rust,ts,dart,swift,kotlin,go&perline=6" alt="Programming Languages"/>
+</p>
+</details>
+
+<!-- Web Development -->
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,nextjs,nodejs,express,tailwind,bootstrap,materialui,sass&perline=6" alt="Web Development"/>
+</p>
+</details>
+
+<!-- Mobile Development -->
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,flutter,react,kotlin,swift&perline=5" alt="Mobile Development"/>
+</p>
+</details>
+
+<!-- Database & Cloud -->
+<details open>
+<summary><b>☁️ Database & Cloud</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,aws,azure,gcp,firebase,heroku,vercel,netlify&perline=6" alt="Database & Cloud"/>
+</p>
+</details>
+
+<!-- Machine Learning & AI -->
+<details open>
+<summary><b>🧠 Machine Learning & AI</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=6" alt="ML & AI"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+</details>
+
+<!-- DevOps & Tools -->
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,jenkins,nginx,bash,vscode,vim,postman,figma&perline=7" alt="DevOps & Tools"/>
+</p>
+</details>
+
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- GitHub Stats Section - ENHANCED -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32">
+  GitHub Statistics
+</h2>
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakLabel=00FFAA" alt="Streak Stats"/>
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true&area_color=00FFAA" alt="Activity Graph"/>
+</p>
+
+<!-- Additional Stats Row -->
+<p align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mannuking&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannuking&theme=radical" alt="Repos per Language"/>
+</p>
+
+<!-- Profile Summary -->
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannuking&theme=radical" alt="Profile Summary"/>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+
+<!-- Animated Line Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+<!-- Connect With Me -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32">
   Connect With Me
 </h2>
 
-<div align="center" style="background: linear-gradient(90deg, rgba(5,7,12,0.5) 0%, rgba(5,41,71,0.5) 100%); border-radius: 10px; padding: 20px; border: 1px solid #2f71a1; max-width: 800px; margin: 0 auto;">
 <p align="center">
-  <a href="https://linkedin.com/in/jai-kumar-meena-431b80213"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="https://github.com/mannuking"><img src="https://img.shields.io/badge/GitHub-Follow-gray?logo=github&style=for-the-badge" alt="GitHub"/></a>
-  <a href="https://x.com/NSUTKING"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/></a>
-</p>
-</div>
-
-<br />
-
-<!-- THIS SECTION WILL NOT BE MODIFIED AS REQUESTED BY THE USER -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-
+  <a href="https://linkedin.com/in/jai-kumar-meena-431b80213">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mannuking">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/NSUTKING">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
+<!-- Animated Line Divider -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🎯 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mannuking&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<!-- Two-column layout for How to Reach Me and Support Me -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; margin-bottom: 20px;">
-  <!-- How to Reach Me Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h2 align="center">📫 How to Reach Me</h2>
-    <div align="center" style="background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88; margin: 0 auto;">
-      <p>Email: <a href="mailto:jk422331@gmail.com" style="color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;">jk422331@gmail.com</a></p>
-      <p>Resume/CV: <a href="https://drive.google.com/file/d/19CO3Lmg5p5wNdlmYXkKuMuL_aFu2KMms/view?usp=sharing" style="color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;">Download PDF</a></p>
-    </div>
-  </div>
-
-  <!-- Support Me Column -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px;">
-    <h2 align="center">💸 Support Me</h2>
-    <div align="center" style="background: rgba(13,17,23,0.5); border-radius: 10px; padding: 20px; border: 1px solid #2d5c88; margin: 0 auto;">
+<!-- How to Reach Me & Support -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📫 How to Reach Me</h3>
+      <p>
+        <a href="mailto:jk422331@gmail.com">
+          <img src="https://img.shields.io/badge/Email-jk422331@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://drive.google.com/file/d/19CO3Lmg5p5wNdlmYXkKuMuL_aFu2KMms/view?usp=sharing">
+          <img src="https://img.shields.io/badge/Resume-Download_PDF-00FFAA?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+        </a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>💸 Support My Work</h3>
       <a href="https://www.buymeacoffee.com/mannuking" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
       </a>
-    </div>
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
 
+<!-- Random Dev Quote -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=onedark&no-frame=true" alt="Trophies" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
+
+<!-- Spotify Now Playing (Optional - if you have Spotify integration) -->
+<!-- 
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify"/>
+</p>
+-->
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+<!-- Visitor Badge at Bottom -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-00FFAA?style=for-the-badge" alt="Thanks"/>
+</p>
+
