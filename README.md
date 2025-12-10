@@ -298,62 +298,39 @@ hobbies:
 
 <!-- GitHub Stats Card - With Private Commits -->
 <p align="center">
-  <a href="https://github.com/mannuking">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&ring_color=00FFAA"/>
-  </a>
-  <a href="https://github.com/mannuking">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-<!-- Streak Stats - Using GitHub Readme Streak Stats -->
+<!-- Top Languages -->
 <p align="center">
-  <a href="https://github.com/mannuking">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakLabel=00FFAA&sideLabels=00FFAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <a href="https://github.com/mannuking">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true&area_color=00FFAA" alt="Activity Graph"/>
-  </a>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true&area_color=00FFAA" alt="Activity Graph"/>
 </p>
 
 <!-- Profile Summary Cards -->
 <p align="center">
-  <a href="https://github.com/mannuking">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannuking&theme=radical" alt="Profile Summary"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mannuking&theme=radical" alt="Profile Summary"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mannuking">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannuking&theme=radical" alt="Repos per Language"/>
-  </a>
-  <a href="https://github.com/mannuking">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mannuking&theme=radical" alt="Most Commit Language"/>
-  </a>
-  <a href="https://github.com/mannuking">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mannuking&theme=radical" alt="Stats"/>
-  </a>
-  <a href="https://github.com/mannuking">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mannuking&theme=radical&utcOffset=5.5" alt="Productive Time"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mannuking&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mannuking&theme=radical" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mannuking&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mannuking&theme=radical&utcOffset=5.5" alt="Productive Time"/>
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-  </a>
-</p>
-
-<!-- Alternative Trophies if above doesn't work -->
-<p align="center">
-  <a href="https://github.com/mannuking">
-    <img src="https://github-trophies.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 <!-- Contribution Snake Animation -->
