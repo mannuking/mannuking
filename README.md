@@ -296,20 +296,20 @@ hobbies:
   GitHub Statistics
 </h2>
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats Card - With Private Commits -->
 <p align="center">
   <a href="https://github.com/mannuking">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF&ring_color=00FFAA"/>
   </a>
   <a href="https://github.com/mannuking">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF"/>
   </a>
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak Stats - Using GitHub Readme Streak Stats -->
 <p align="center">
   <a href="https://github.com/mannuking">
-    <img src="https://streak-stats.demolab.com?user=mannuking&theme=radical&hide_border=true&background=0D1117&ring=00FFAA&fire=FF6B6B&currStreakLabel=00FFAA" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&theme=radical&hide_border=true&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakLabel=00FFAA&sideLabels=00FFAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -344,8 +344,15 @@ hobbies:
 
 <!-- GitHub Trophies -->
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+  </a>
+</p>
+
+<!-- Alternative Trophies if above doesn't work -->
+<p align="center">
   <a href="https://github.com/mannuking">
-    <img src="https://github-profile-trophy.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Trophies"/>
+    <img src="https://github-trophies.vercel.app/?username=mannuking&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
   </a>
 </p>
 
