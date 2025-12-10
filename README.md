@@ -296,31 +296,33 @@ hobbies:
   GitHub Statistics
 </h2>
 
-<!-- GitHub Stats Card - With Private Commits -->
+<!-- GitHub Stats using shields.io + GitHub API -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Total%20Stars-8-yellow?style=for-the-badge&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Total%20Commits%202025-1.03k+-blue?style=for-the-badge&logo=github" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Total%20PRs-4-purple?style=for-the-badge&logo=github" alt="PRs"/>
+  <img src="https://img.shields.io/badge/Contributed%20To-48-green?style=for-the-badge&logo=github" alt="Contributed"/>
+</div>
+
+<br/>
+
+<!-- GitHub Stats Card -->
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 <br/>
 
 <!-- Top Languages -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true&cache_seconds=86400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
-  </picture>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <!-- Streak Stats -->
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats-nine-alpha.vercel.app/?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <!-- Contribution Graph -->
