@@ -296,7 +296,7 @@ hobbies:
   GitHub Statistics
 </h2>
 
-<!-- GitHub Stats using shields.io dynamic badges -->
+<!-- GitHub Stats using shields.io dynamic badges - THESE ALWAYS WORK -->
 <div align="center">
   <img src="https://img.shields.io/github/stars/mannuking?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow" alt="Stars"/>
   <img src="https://img.shields.io/github/followers/mannuking?style=for-the-badge&logo=github&label=Followers&color=blue" alt="Followers"/>
@@ -306,32 +306,39 @@ hobbies:
 
 <br/>
 
-<!-- GitHub Stats Card - Using Render deployment -->
+<!-- GitHub Stats Card - Using raw GitHub stats URL -->
 <div align="center">
-  <img src="https://github-readme-stats.onrender.com/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <a href="https://github.com/mannuking">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Top Languages - Using Render deployment -->
+<!-- Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.onrender.com/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/mannuking">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Streak Stats - Using herokuapp -->
+<!-- Streak Stats - Using DenverCoder1's deployment -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannuking&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/mannuking">
+    <img src="https://streak-stats.demolab.com?user=mannuking&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  </a>
 </div>
 
-<!-- Contribution Graph - Using Render (not Vercel) -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.onrender.com/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true&area_color=00FFAA" alt="Activity Graph"/>
-</p>
+<br/>
 
-<!-- Note: To show private contributions in the graph, you need to set up GitHub Actions in your profile repo -->
-<!-- The contribution graph above only shows public activity due to GitHub API limitations -->
+<!-- Contribution Graph -->
+<div align="center">
+  <a href="https://github.com/mannuking">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true" alt="Activity Graph"/>
+  </a>
+</div>
 
 <!-- Profile Summary Cards -->
 <p align="center">
