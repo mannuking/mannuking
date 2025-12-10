@@ -306,21 +306,15 @@ hobbies:
 
 <br/>
 
-<!-- GitHub Stats & Top Languages - SIDE BY SIDE -->
+<!-- GitHub Stats & Top Languages - SIDE BY SIDE SYMMETRICAL -->
 <p align="center">
-  <a href="https://github.com/mannuking">
-    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/mannuking">
-    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-  </a>
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak Stats - Using streak-stats.demolab.com -->
 <p align="center">
-  <a href="https://github.com/mannuking">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mannuking&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00FFAA" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=mannuking&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <!-- Contribution Graph -->
