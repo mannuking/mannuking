@@ -306,39 +306,29 @@ hobbies:
 
 <br/>
 
-<!-- GitHub Stats Card - Using raw GitHub stats URL -->
-<div align="center">
+<!-- GitHub Stats & Top Languages - SIDE BY SIDE -->
+<p align="center">
   <a href="https://github.com/mannuking">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mannuking&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub Stats"/>
   </a>
-</div>
-
-<br/>
-
-<!-- Top Languages -->
-<div align="center">
   <a href="https://github.com/mannuking">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mannuking&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
   </a>
-</div>
+</p>
 
-<br/>
-
-<!-- Streak Stats - Using DenverCoder1's deployment -->
-<div align="center">
+<!-- Streak Stats -->
+<p align="center">
   <a href="https://github.com/mannuking">
-    <img src="https://streak-stats.demolab.com?user=mannuking&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mannuking&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00FFAA" alt="GitHub Streak"/>
   </a>
-</div>
-
-<br/>
+</p>
 
 <!-- Contribution Graph -->
-<div align="center">
+<p align="center">
   <a href="https://github.com/mannuking">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mannuking&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFAA&line=00FFAA&point=FF6B6B&area=true" alt="Activity Graph"/>
   </a>
-</div>
+</p>
 
 <!-- Profile Summary Cards -->
 <p align="center">
