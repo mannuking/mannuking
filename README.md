@@ -1,19 +1,16 @@
-<!-- README.md -->
-
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=JAI%20KUMAR%20MEENA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Open%20Source%20Enthusiast&descAlignY=52&descSize=18"/>
 
-<!-- Animated Hello GIF -->
-<img src="https://raw.githubusercontent.com/mannuking/mannuking/main/assets/hello.gif" alt="Hello GIF" width="320" />
+<br/>
 
-<!-- Animated Typing SVG -->
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+the+Future+with+AI;%F0%9F%A4%96+Open+Source+Enthusiast;%F0%9F%92%A1+Tech+Explorer+%7C+AI+Developer;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=%F0%9F%9A%80+Building+the+Future+with+AI;%F0%9F%A4%96+Open+Source+Enthusiast;%F0%9F%92%A1+Tech+Explorer+%7C+AI+Developer;%F0%9F%8C%9F+Turning+Ideas+into+Reality" alt="Typing SVG" />
+
+<br/>
 
 <!-- Profile Views Counter - KEEPING EXACTLY AS IS -->
 <p align="center">  
